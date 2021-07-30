@@ -2,8 +2,7 @@
 ##
   - 🔭 17 anos
   - 😄 3º Ensino Médio
-  - 🤔 Técnico Eletromecânico
-  - ⚡ Estudando HTML e Python
+  - ⚡ Técnico Eletromecânico
  
  <div>
   <a href="https://github.com/VitorOliveiraSilva">,
