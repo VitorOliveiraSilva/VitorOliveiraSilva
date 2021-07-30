@@ -3,7 +3,7 @@
 
 ##
 
-<p>📌𝕾𝖔𝖇𝖗𝖊 𝖒𝖎𝖒:</p>
+<p><strong>📌𝕾𝖔𝖇𝖗𝖊 𝖒𝖎𝖒:</strong></p>
   <ul type="circle">
     <li><em> 🔭 17 anos </em>
     <li><em> 😄 3º Ensino Médio </em>
