@@ -1,13 +1,14 @@
 ### Olá mundo! Eu sou o Vitor Oliveira 👋
 ##
-  - 🔭 17 anos
-  - 😄 3º Ensino Médio
-  - ⚡ Técnico Eletromecânico
- 
+  <ul type="circle">
+    <li> 🔭 17 anos
+    <li> 😄 3º Ensino Médio
+    <li> ⚡ Técnico Eletromecânico
+  </ul>
+
  <div>
   <a href="https://github.com/VitorOliveiraSilva">,
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitoroliveira&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitoroliveira&layout=compact&langs_count=16&theme=algolia"/>
  </div>
   
  <div style="display: inline_block"><br>
@@ -17,3 +18,8 @@
  </div>
   
 ##
+  
+<div> 
+    <a href="https://open.spotify.com/user/j5zz4zlb36bcml668btv8j8pi?si=RoP4-cVRSFKImSy6cQCHvg" target="_blank" rel="external"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-     the-badge&logo=spotify&logoColor=white" target="_blank" rel="external"></a>
+    <a href="zThanatossz#8194" target="_blank"><img src="<img src="https://img.icons8.com/doodle/48/000000/discord-new-logo.png"/>"></a>
+</div>
