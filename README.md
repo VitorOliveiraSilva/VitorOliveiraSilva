@@ -5,9 +5,9 @@
 
 <p><strong>📌𝕾𝖔𝖇𝖗𝖊 𝖒𝖎𝖒:</strong></p>
   <ul type="circle">
-    <li><em> 🔭 17 anos </em>
-    <li><em> 😄 3º Ensino Médio </em>
-    <li><em> ⚡ Técnico Eletromecânico </em>
+    <li> 🔭 <em>17 anos </em>
+    <li> 😄 <em>3º Ensino Médio </em>
+    <li> ⚡ <em>Técnico Eletromecânico </em>
   </ul>
   
   <blockquote><em>"A imaginação muitas vezes nos leva a mundos que nunca sequer existiram. Mas sem ela não vamos a lugar algum."</em> ~ Carl Sagan</blockquote>
