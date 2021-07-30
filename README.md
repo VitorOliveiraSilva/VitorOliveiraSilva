@@ -1,10 +1,11 @@
-### Olá mundo! Eu sou o Vitor Oliveira 👋
+### <h1><strong>Olá mundo!<br>
+Eu sou o Vitor Oliveira 👋</strong></h1>
 ##
-  <ul type="circle">
-    <li> 🔭 17 anos
-    <li> 😄 3º Ensino Médio
-    <li> ⚡ Técnico Eletromecânico
-  </ul>
+  <h2><ul type="circle">
+    <li><em> 🔭 17 anos </em>
+    <li><em> 😄 3º Ensino Médio </em>
+    <li><em> ⚡ Técnico Eletromecânico </em>
+  </ul></h2>
 
  <div>
   <a href="https://github.com/VitorOliveiraSilva">,
@@ -20,6 +21,6 @@
 ##
   
 <div> 
-    <a href="https://open.spotify.com/user/j5zz4zlb36bcml668btv8j8pi?si=RoP4-cVRSFKImSy6cQCHvg" target="_blank" rel="external"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-     the-badge&logo=spotify&logoColor=white" target="_blank" rel="external"></a>
-    <a href="zThanatossz#8194" target="_blank"><img src="<img src="https://img.icons8.com/doodle/48/000000/discord-new-logo.png"/>"></a>
+    <a href="https://open.spotify.com/user/j5zz4zlb36bcml668btv8j8pi?si=RoP4-cVRSFKImSy6cQCHvg" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white" target="_blank" rel="external"></a>
+    <a href="zThanatossz#8194" target="_blank"><img src="<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>"></a>
 </div>
