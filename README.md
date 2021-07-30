@@ -17,7 +17,7 @@
 <p><strong><img src="https://emoji.gg/assets/emoji/6312-glowsquid.gif" height="18"> 𝕲𝖎𝖙𝖍𝖚𝖇 𝕾𝖙𝖆𝖙𝖘:</strong></p>
 <p align="center">
   <a href="https://github.com/VitorOliveiraSilva">,
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorOliveiraSilva&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>     <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorOliveiraSilva&theme=algolia"></a></p>
+  <img height="80em" src="https://github-readme-stats.vercel.app/api?username=VitorOliveiraSilva&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>     <img height="60em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorOliveiraSilva&theme=algolia"></a></p>
   
 ##
 
