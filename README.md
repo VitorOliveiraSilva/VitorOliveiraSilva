@@ -15,7 +15,7 @@ Eu sou o Vitor Oliveira 👋</strong></h1>
 <p><strong><img src="https://emoji.gg/assets/emoji/6312-glowsquid.gif" height="18"> Github Stats:</strong></p>
 <p align="center">
   <a href="https://github.com/VitorOliveiraSilva">,
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=VitorOliveiraSilva&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/></a></p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorOliveiraSilva&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/></a></p>
   
 ##
 
